@@ -1131,7 +1131,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Я выигрываю тебя всухую! Что, сказать нечего?"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/killedTarget/novakid/default/1"
@@ -1139,7 +1141,7 @@
     },
     "Texts": {
       "Eng": "I'm a natural winner at fightin', what can I say?",
-      "Rus": "Я выигрываю тебя всухую! Что, сказать нечего?"
+      "Rus": "Я побеждаю тебя. Что мне сказать?"
     }
   },
   {
@@ -1683,7 +1685,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Это далеко не первое мое родео!"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/attack/novakid/default/9"
@@ -1839,7 +1843,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Разве это не было правдой?"
+    ],
     "Files": {
       "dialog/combat.config": [
         "/killedTarget/novakid/default/2"
@@ -2021,7 +2027,8 @@
   {
     "DeniedAlternatives": [
       "Йи-Хо! Это было нечто!",
-      "Йи-хаа! Это было что-то!"
+      "Йи-хаа! Это было что-то!",
+      "Ии-Ха! Что-то случилось."
     ],
     "Files": {
       "dialog/combat.config": [
@@ -2030,7 +2037,7 @@
     },
     "Texts": {
       "Eng": "Yee-haw! That was somethin'.",
-      "Rus": "Ии-Ха! Что-то случилось."
+      "Rus": "Ии-Ха! Что-то получилось."
     }
   },
   {
@@ -2224,7 +2231,7 @@
     },
     "Texts": {
       "Eng": "let's ride!",
-      "Rus": ""
+      "Rus": "Поехали!"
     }
   }
 ]
