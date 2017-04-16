@@ -4207,7 +4207,7 @@
         },
         "novakidvillage": {
           "bartender.npctype.json": 5,
-          "novakidblacksmith.npctype.json": 0,
+          "novakidblacksmith.npctype.json": 1,
           "saloon.npctype.json": 0
         },
         "shared_.npctype.json": 1,
