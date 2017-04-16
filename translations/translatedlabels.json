@@ -4206,7 +4206,7 @@
           "chefmerchant.npctype.json": 56
         },
         "novakidvillage": {
-          "bartender.npctype.json": 0,
+          "bartender.npctype.json": 5,
           "novakidblacksmith.npctype.json": 0,
           "saloon.npctype.json": 0
         },
