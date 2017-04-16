@@ -5448,7 +5448,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ты был в храме Эвиан? Я не уверен, что они обратятся к эстетике Hylotl ..."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/hylotl/12"
@@ -5468,7 +5470,7 @@
     },
     "Texts": {
       "Eng": "Have you dealt with pirates much?",
-      "Rus": ""
+      "Rus": "Вы много общались с пиратами?"
     }
   },
   {
